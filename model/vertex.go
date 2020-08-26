@@ -21,7 +21,7 @@
 package model
 
 import (
-	"github.com/northwesternmutual/grammes/query/traversal"
+	"github.com/williamsia/grammes/query/traversal"
 )
 
 // Vertex maintains pointers to both a set

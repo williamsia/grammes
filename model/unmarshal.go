@@ -23,7 +23,7 @@ package model
 import (
 	"encoding/json"
 
-	"github.com/northwesternmutual/grammes/gremerror"
+	"github.com/williamsia/grammes/gremerror"
 )
 
 // UnmarshalVertexList is a utility to unmarshal a list

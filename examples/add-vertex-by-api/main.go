@@ -27,8 +27,8 @@ import (
 
 	"go.uber.org/zap"
 
-	"github.com/northwesternmutual/grammes"
-	"github.com/northwesternmutual/grammes/examples/exampleutil"
+	"github.com/williamsia/grammes"
+	"github.com/williamsia/grammes/examples/exampleutil"
 )
 
 func prepareAPI(path string) (grammes.APIData, error) {

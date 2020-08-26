@@ -27,7 +27,7 @@ import (
 	"github.com/google/uuid"
 	. "github.com/smartystreets/goconvey/convey"
 
-	"github.com/northwesternmutual/grammes/gremconnect"
+	"github.com/williamsia/grammes/gremconnect"
 )
 
 func TestDial(t *testing.T) {

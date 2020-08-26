@@ -25,8 +25,8 @@ import (
 
 	. "github.com/smartystreets/goconvey/convey"
 
-	"github.com/northwesternmutual/grammes/gremconnect"
-	"github.com/northwesternmutual/grammes/logging"
+	"github.com/williamsia/grammes/gremconnect"
+	"github.com/williamsia/grammes/logging"
 )
 
 func TestSetLogger(t *testing.T) {

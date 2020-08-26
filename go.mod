@@ -1,4 +1,4 @@
-module github.com/willsia/grammes
+module github.com/williamsia/grammes
 
 go 1.13
 
